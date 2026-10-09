@@ -1,0 +1,7 @@
+[submodule "human-atlas"]
+	path = human-atlas
+	url = git@github.com:liuxing5/human-atlas.git
+[submodule "gh-pages-deploy"]
+	path = gh-pages-deploy
+	url = git@github.com:liuxing5/human-atlas.git
+	branch = gh-pages

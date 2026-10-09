@@ -1,0 +1,1014 @@
+{
+  "sha": "7a383d3ee2759e3ddf157c704fb8814fd0c50bcb",
+  "url": "https://api.github.com/repos/ashemag/human-atlas/git/trees/7a383d3ee2759e3ddf157c704fb8814fd0c50bcb",
+  "tree": [
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c95544b79fbb161bd84ed8a390968de125141e19",
+      "size": 398,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/c95544b79fbb161bd84ed8a390968de125141e19"
+    },
+    {
+      "path": "LICENSE",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "11d941f1b306e0b093011a4c1399b9ecf535d1b9",
+      "size": 1064,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/11d941f1b306e0b093011a4c1399b9ecf535d1b9"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a2f27306919e60414df4ae40269a98e56034be9c",
+      "size": 3744,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/a2f27306919e60414df4ae40269a98e56034be9c"
+    },
+    {
+      "path": "app",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "de1f314f93ff134cc2488b6afc782036ce63b291",
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/trees/de1f314f93ff134cc2488b6afc782036ce63b291"
+    },
+    {
+      "path": "app/agent-tools.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4443413a018acaf95c1c67f3593ac9327fd4283d",
+      "size": 2241,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/4443413a018acaf95c1c67f3593ac9327fd4283d"
+    },
+    {
+      "path": "app/anatomy.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "031d084849cada02be0fabb5a5f041c858fd3287",
+      "size": 6074,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/031d084849cada02be0fabb5a5f041c858fd3287"
+    },
+    {
+      "path": "app/explosion-layout.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2e3f16c9e7da22e8972008bdaaec14be5317b2e7",
+      "size": 1102,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/2e3f16c9e7da22e8972008bdaaec14be5317b2e7"
+    },
+    {
+      "path": "app/globals.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "91cbe15731489bdb327dcb6a372f846a6de91ee7",
+      "size": 26246,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/91cbe15731489bdb327dcb6a372f846a6de91ee7"
+    },
+    {
+      "path": "app/model-download.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d5e45752fea94b213579878123ceaa09d3218688",
+      "size": 812,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/d5e45752fea94b213579878123ceaa09d3218688"
+    },
+    {
+      "path": "app/page.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5b59ba143e93710021f2ddf75f0ae465d38fd8a4",
+      "size": 14559,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/5b59ba143e93710021f2ddf75f0ae465d38fd8a4"
+    },
+    {
+      "path": "app/pointer-tap.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e1c84f673969f449ff8ea1ee179caff235214ecc",
+      "size": 770,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/e1c84f673969f449ff8ea1ee179caff235214ecc"
+    },
+    {
+      "path": "app/scene.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "553f1db7e23b872cdffcec01fba8e59b88053551",
+      "size": 18527,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/553f1db7e23b872cdffcec01fba8e59b88053551"
+    },
+    {
+      "path": "components",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c9f213638e10c288d07f21ebd55e6ca4df6c120c",
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/trees/c9f213638e10c288d07f21ebd55e6ca4df6c120c"
+    },
+    {
+      "path": "components/ui",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2254c03ba7919ce2034f79c6467f08e6e10bef57",
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/trees/2254c03ba7919ce2034f79c6467f08e6e10bef57"
+    },
+    {
+      "path": "components/ui/accordion.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9daf7bf384eb45cd301aa7e763e58d1f5982f9eb",
+      "size": 2664,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/9daf7bf384eb45cd301aa7e763e58d1f5982f9eb"
+    },
+    {
+      "path": "components/ui/alert-dialog.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "46d9eb7fdc763bf18525e1ede3d1c432823c839a",
+      "size": 5301,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/46d9eb7fdc763bf18525e1ede3d1c432823c839a"
+    },
+    {
+      "path": "components/ui/alert.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "abe04d372d096421950d55c6ef433a57416d006f",
+      "size": 2060,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/abe04d372d096421950d55c6ef433a57416d006f"
+    },
+    {
+      "path": "components/ui/aspect-ratio.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "95d97f8e2aa1c888554dbe9cccc872889c459384",
+      "size": 406,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/95d97f8e2aa1c888554dbe9cccc872889c459384"
+    },
+    {
+      "path": "components/ui/attachment.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "108ab4da821dc9d71ddb31a1f8a7e36f64e6145a",
+      "size": 6132,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/108ab4da821dc9d71ddb31a1f8a7e36f64e6145a"
+    },
+    {
+      "path": "components/ui/avatar.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "789a0141c15b84ff42b38745d1398f25d9704ba0",
+      "size": 3056,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/789a0141c15b84ff42b38745d1398f25d9704ba0"
+    },
+    {
+      "path": "components/ui/badge.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8e59eb1bea89889c94aa49f7e81a3666f26baed6",
+      "size": 1934,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/8e59eb1bea89889c94aa49f7e81a3666f26baed6"
+    },
+    {
+      "path": "components/ui/breadcrumb.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6f51e3fa8f46e285f0fe628218aed9b3e74eaddf",
+      "size": 2602,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/6f51e3fa8f46e285f0fe628218aed9b3e74eaddf"
+    },
+    {
+      "path": "components/ui/bubble.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "61f20300a72af700cf633b934320ce7676d10c07",
+      "size": 4828,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/61f20300a72af700cf633b934320ce7676d10c07"
+    },
+    {
+      "path": "components/ui/button-group.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8f8c2d29515c8972244dc11e83fb5bd34885a9f2",
+      "size": 2494,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/8f8c2d29515c8972244dc11e83fb5bd34885a9f2"
+    },
+    {
+      "path": "components/ui/button.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7a8a32cec98c0bc1c0b1dfef22a58a35783faa73",
+      "size": 3247,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/7a8a32cec98c0bc1c0b1dfef22a58a35783faa73"
+    },
+    {
+      "path": "components/ui/calendar.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5d1cb82024a0a5e0d3ecfc3ae7a04188c50c03e3",
+      "size": 8503,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/5d1cb82024a0a5e0d3ecfc3ae7a04188c50c03e3"
+    },
+    {
+      "path": "components/ui/card.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ae29aa249b47118ccc8cc3e8586491dd876e1af7",
+      "size": 2645,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/ae29aa249b47118ccc8cc3e8586491dd876e1af7"
+    },
+    {
+      "path": "components/ui/carousel.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f7e33307db5731a94324e497f79265c044e2a459",
+      "size": 5727,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/f7e33307db5731a94324e497f79265c044e2a459"
+    },
+    {
+      "path": "components/ui/chart.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0680cf0ec1564a4a007e409cc8a1beecf138e100",
+      "size": 10581,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/0680cf0ec1564a4a007e409cc8a1beecf138e100"
+    },
+    {
+      "path": "components/ui/checkbox.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "990dbaf0675457cde8da3ae05ba701caf5cb8184",
+      "size": 1538,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/990dbaf0675457cde8da3ae05ba701caf5cb8184"
+    },
+    {
+      "path": "components/ui/collapsible.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "93a385188279f8fef89b26171cd11575f5513fbc",
+      "size": 664,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/93a385188279f8fef89b26171cd11575f5513fbc"
+    },
+    {
+      "path": "components/ui/combobox.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "61db9411ba6f8cc9afcf4f5efdf85787ca984aac",
+      "size": 9135,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/61db9411ba6f8cc9afcf4f5efdf85787ca984aac"
+    },
+    {
+      "path": "components/ui/command.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "af126f40ebefee93b580c9808786171656a0cd7f",
+      "size": 5029,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/af126f40ebefee93b580c9808786171656a0cd7f"
+    },
+    {
+      "path": "components/ui/context-menu.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "402a3a347803f3b2ed4adf37d3932bf2da9d6436",
+      "size": 8166,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/402a3a347803f3b2ed4adf37d3932bf2da9d6436"
+    },
+    {
+      "path": "components/ui/dialog.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "019e0eb85b7a311fb9d7fab8e616912823020245",
+      "size": 4087,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/019e0eb85b7a311fb9d7fab8e616912823020245"
+    },
+    {
+      "path": "components/ui/direction.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "78363f9698f16549b332c86adc0052f85afc37bb",
+      "size": 105,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/78363f9698f16549b332c86adc0052f85afc37bb"
+    },
+    {
+      "path": "components/ui/drawer.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d090d7d20a49fa1195322374c5d4d282834b3fb5",
+      "size": 11396,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/d090d7d20a49fa1195322374c5d4d282834b3fb5"
+    },
+    {
+      "path": "components/ui/dropdown-menu.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1cfacf7b982db6b7b54b1f230085780f1903884e",
+      "size": 8809,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/1cfacf7b982db6b7b54b1f230085780f1903884e"
+    },
+    {
+      "path": "components/ui/empty.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cb8afd221481cc656115f08c70dfb9d9682c5156",
+      "size": 2415,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/cb8afd221481cc656115f08c70dfb9d9682c5156"
+    },
+    {
+      "path": "components/ui/field.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "48f2ab807eb2c2c040f914a620306818e229eb6b",
+      "size": 6303,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/48f2ab807eb2c2c040f914a620306818e229eb6b"
+    },
+    {
+      "path": "components/ui/hover-card.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "460ac83f75fe261cd15da3ae75fe1406a0b78ae6",
+      "size": 1863,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/460ac83f75fe261cd15da3ae75fe1406a0b78ae6"
+    },
+    {
+      "path": "components/ui/input-group.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4157002dc6d7733e97585a33e914ef0cb3a59897",
+      "size": 5289,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/4157002dc6d7733e97585a33e914ef0cb3a59897"
+    },
+    {
+      "path": "components/ui/input-otp.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "95fa9ead83012e47ae3280ed7e0b58eaba7164f8",
+      "size": 2558,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/95fa9ead83012e47ae3280ed7e0b58eaba7164f8"
+    },
+    {
+      "path": "components/ui/input.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "70c195a90602ff71ea730884e96dae029b87fbd3",
+      "size": 1046,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/70c195a90602ff71ea730884e96dae029b87fbd3"
+    },
+    {
+      "path": "components/ui/item.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "525610d8f9c17d24263b4d1b09a3e6e835cfa177",
+      "size": 4888,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/525610d8f9c17d24263b4d1b09a3e6e835cfa177"
+    },
+    {
+      "path": "components/ui/kbd.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fd4e9b15dd1fd780be83c723b05ff93eac44bb1c",
+      "size": 842,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/fd4e9b15dd1fd780be83c723b05ff93eac44bb1c"
+    },
+    {
+      "path": "components/ui/label.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6d13a34c4faa914cd82b61356a81381a125855b4",
+      "size": 524,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/6d13a34c4faa914cd82b61356a81381a125855b4"
+    },
+    {
+      "path": "components/ui/marker.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "031db961e8d6ad47a44e0e8cdbf32a8c9fc8b221",
+      "size": 1962,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/031db961e8d6ad47a44e0e8cdbf32a8c9fc8b221"
+    },
+    {
+      "path": "components/ui/menubar.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e9ac00cab3d7812f4c154e185d0f1856db86ff40",
+      "size": 8315,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/e9ac00cab3d7812f4c154e185d0f1856db86ff40"
+    },
+    {
+      "path": "components/ui/message-scroller.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b9ea776c2171433c9b4c79b6aaa9526eb5cf1805",
+      "size": 4070,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/b9ea776c2171433c9b4c79b6aaa9526eb5cf1805"
+    },
+    {
+      "path": "components/ui/message.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "499a480ce23e3f80b7cfd40d0fe710b35e778cd4",
+      "size": 2246,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/499a480ce23e3f80b7cfd40d0fe710b35e778cd4"
+    },
+    {
+      "path": "components/ui/native-select.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "aa8bb13bbc6d6e5edbbb3df41abfdd84327819d9",
+      "size": 2133,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/aa8bb13bbc6d6e5edbbb3df41abfdd84327819d9"
+    },
+    {
+      "path": "components/ui/navigation-menu.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "17fe02df91e9c62731fec1bf116d47ac106e15c1",
+      "size": 7436,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/17fe02df91e9c62731fec1bf116d47ac106e15c1"
+    },
+    {
+      "path": "components/ui/pagination.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0fbfd17ed84cfb9e37d8bbeab0d5acc02e1fee86",
+      "size": 2928,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/0fbfd17ed84cfb9e37d8bbeab0d5acc02e1fee86"
+    },
+    {
+      "path": "components/ui/popover.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cfe07945daa473f5763d5e1c4805b2b75f3bd2ee",
+      "size": 2586,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/cfe07945daa473f5763d5e1c4805b2b75f3bd2ee"
+    },
+    {
+      "path": "components/ui/progress.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "72c9482fa2af485839990f5052d1b542bbd36f04",
+      "size": 1751,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/72c9482fa2af485839990f5052d1b542bbd36f04"
+    },
+    {
+      "path": "components/ui/radio-group.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "37ee5cf4cc4896b259bd9ace9b511495e2875e2a",
+      "size": 1843,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/37ee5cf4cc4896b259bd9ace9b511495e2875e2a"
+    },
+    {
+      "path": "components/ui/resizable.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "65aed498983cf0822309fc7c261a56b62844db84",
+      "size": 1681,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/65aed498983cf0822309fc7c261a56b62844db84"
+    },
+    {
+      "path": "components/ui/scroll-area.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1c904e17e080339bcfb6ae6799c514855c015971",
+      "size": 1632,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/1c904e17e080339bcfb6ae6799c514855c015971"
+    },
+    {
+      "path": "components/ui/select.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a2b051a2dc3aa7c63ed8e67a3bc27f182444cdd1",
+      "size": 6700,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/a2b051a2dc3aa7c63ed8e67a3bc27f182444cdd1"
+    },
+    {
+      "path": "components/ui/separator.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3a48aabdcfae61c4b8bddd9e38cf8a38c5b1c4fd",
+      "size": 551,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/3a48aabdcfae61c4b8bddd9e38cf8a38c5b1c4fd"
+    },
+    {
+      "path": "components/ui/sheet.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ab7ca4710d48b14c8eefdffc49654048d10b58dd",
+      "size": 4446,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/ab7ca4710d48b14c8eefdffc49654048d10b58dd"
+    },
+    {
+      "path": "components/ui/sidebar.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "530b86ce9bac125704ea430b6b82a6afc80b8a7f",
+      "size": 21779,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/530b86ce9bac125704ea430b6b82a6afc80b8a7f"
+    },
+    {
+      "path": "components/ui/skeleton.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "69c99b8d7804b5b0cd223487ee88ac4593323ed9",
+      "size": 278,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/69c99b8d7804b5b0cd223487ee88ac4593323ed9"
+    },
+    {
+      "path": "components/ui/slider.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c810a08fbfb07622c4fd229159872bf6adffb69b",
+      "size": 1879,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/c810a08fbfb07622c4fd229159872bf6adffb69b"
+    },
+    {
+      "path": "components/ui/spinner.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "77f8d64b541f9372ee89d26bd4a89f07f5859e3a",
+      "size": 360,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/77f8d64b541f9372ee89d26bd4a89f07f5859e3a"
+    },
+    {
+      "path": "components/ui/switch.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e07aee007daa9bf289ccc919ef83e1119d395d13",
+      "size": 1818,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/e07aee007daa9bf289ccc919ef83e1119d395d13"
+    },
+    {
+      "path": "components/ui/table.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7ca5b51da900c8bba9f95cd920a2624a1ef29e12",
+      "size": 2418,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/7ca5b51da900c8bba9f95cd920a2624a1ef29e12"
+    },
+    {
+      "path": "components/ui/tabs.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "636e66bb7521a2e421b45d93e4374e31f3653c68",
+      "size": 3510,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/636e66bb7521a2e421b45d93e4374e31f3653c68"
+    },
+    {
+      "path": "components/ui/textarea.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "46eab5e3f748303a5d007cea9f379098a2b61276",
+      "size": 847,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/46eab5e3f748303a5d007cea9f379098a2b61276"
+    },
+    {
+      "path": "components/ui/toast.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4a65d1b6f57f42d06b4fa28c43d022901c327a7e",
+      "size": 7353,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/4a65d1b6f57f42d06b4fa28c43d022901c327a7e"
+    },
+    {
+      "path": "components/ui/toggle-group.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a6894ff7e295b355c87097d7e99c5a34393f0993",
+      "size": 3201,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/a6894ff7e295b355c87097d7e99c5a34393f0993"
+    },
+    {
+      "path": "components/ui/toggle.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "60e82e4c004b56c31f2c56e7e4f43a600dead47d",
+      "size": 1770,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/60e82e4c004b56c31f2c56e7e4f43a600dead47d"
+    },
+    {
+      "path": "components/ui/tooltip.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a0a56847e2c260a837ff73d80e94c201f58bad5b",
+      "size": 2855,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/a0a56847e2c260a837ff73d80e94c201f58bad5b"
+    },
+    {
+      "path": "hooks",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2ba3b302fa17b283bc50cd405a30973da03c7b8f",
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/trees/2ba3b302fa17b283bc50cd405a30973da03c7b8f"
+    },
+    {
+      "path": "hooks/use-mobile.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "821f8ff4aa7d77756564f8aecda940d02f2a6c99",
+      "size": 585,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/821f8ff4aa7d77756564f8aecda940d02f2a6c99"
+    },
+    {
+      "path": "lib",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "54faa530bc41cabc082e5330805ab3dd7cc5d325",
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/trees/54faa530bc41cabc082e5330805ab3dd7cc5d325"
+    },
+    {
+      "path": "lib/utils.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2819a830d242f11fda91c4e8951794ab815cec77",
+      "size": 169,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/2819a830d242f11fda91c4e8951794ab815cec77"
+    },
+    {
+      "path": "package-lock.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "78a8a96ebf2d7c5826fc8713a8255725bacf758a",
+      "size": 351273,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/78a8a96ebf2d7c5826fc8713a8255725bacf758a"
+    },
+    {
+      "path": "package.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c6a8a7b04dcfc6076e151d9d2abb7fb63dc5d590",
+      "size": 1540,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/c6a8a7b04dcfc6076e151d9d2abb7fb63dc5d590"
+    },
+    {
+      "path": "public",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "84baa53a2854fa5b2f28543c9f92d221adac45fa",
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/trees/84baa53a2854fa5b2f28543c9f92d221adac45fa"
+    },
+    {
+      "path": "public/ATTRIBUTION.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3f3109904758f7d2ee6563e16899265afdb63a19",
+      "size": 2985,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/3f3109904758f7d2ee6563e16899265afdb63a19"
+    },
+    {
+      "path": "public/favicon.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b47b1db6dfb5571a2d40718754875c12238ffff5",
+      "size": 227,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/b47b1db6dfb5571a2d40718754875c12238ffff5"
+    },
+    {
+      "path": "public/models",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c07d06a8ae4a18b04aed13286c10a40961ec4a8a",
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/trees/c07d06a8ae4a18b04aed13286c10a40961ec4a8a"
+    },
+    {
+      "path": "public/models/atlas.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0f81b5621479a0c0548f4683c316f33bd4d6545b",
+      "size": 1335285,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/0f81b5621479a0c0548f4683c316f33bd4d6545b"
+    },
+    {
+      "path": "public/models/body-0.bin",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "21d12e12e04dd9bae99abf337fab82470e40bd78",
+      "size": 4019496,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/21d12e12e04dd9bae99abf337fab82470e40bd78"
+    },
+    {
+      "path": "public/models/body-0.bin.gz",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "08481964dee1181d566cdbcd360941596a254838",
+      "size": 2257262,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/08481964dee1181d566cdbcd360941596a254838"
+    },
+    {
+      "path": "public/models/body-1.bin",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b2a0a781478031ca966f57d73d6bd0b8652edcf7",
+      "size": 4526484,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/b2a0a781478031ca966f57d73d6bd0b8652edcf7"
+    },
+    {
+      "path": "public/models/body-1.bin.gz",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "09a73c0ef4bfe2d675b63978e258887196e6ba44",
+      "size": 2299850,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/09a73c0ef4bfe2d675b63978e258887196e6ba44"
+    },
+    {
+      "path": "public/models/body-10.bin",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c6116c8705b4234b54ebb60a0dd376682da9cf8e",
+      "size": 4046108,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/c6116c8705b4234b54ebb60a0dd376682da9cf8e"
+    },
+    {
+      "path": "public/models/body-10.bin.gz",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "92967c609a1b3f55c482901df965dda562e1e7b3",
+      "size": 2249282,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/92967c609a1b3f55c482901df965dda562e1e7b3"
+    },
+    {
+      "path": "public/models/body-11.bin",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f437a61bfd8c976108abf3e3a607784af3eb3575",
+      "size": 4037528,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/f437a61bfd8c976108abf3e3a607784af3eb3575"
+    },
+    {
+      "path": "public/models/body-11.bin.gz",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6a45de9e5b3e0c1b6bb43d46efef1678dce6fd5b",
+      "size": 2319620,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/6a45de9e5b3e0c1b6bb43d46efef1678dce6fd5b"
+    },
+    {
+      "path": "public/models/body-12.bin",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "88e823456d067922f9c27c2405a69fe983eef68b",
+      "size": 4000292,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/88e823456d067922f9c27c2405a69fe983eef68b"
+    },
+    {
+      "path": "public/models/body-12.bin.gz",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9fea6c1c2534a4cc7fecda0e872a5f837d61f70d",
+      "size": 2268977,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/9fea6c1c2534a4cc7fecda0e872a5f837d61f70d"
+    },
+    {
+      "path": "public/models/body-13.bin",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "24a9953b6677cf07cd6beea9f221a0690c6efa44",
+      "size": 4004548,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/24a9953b6677cf07cd6beea9f221a0690c6efa44"
+    },
+    {
+      "path": "public/models/body-13.bin.gz",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b25f1411d787caf359ec889f6660ac78096daa94",
+      "size": 2165080,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/b25f1411d787caf359ec889f6660ac78096daa94"
+    },
+    {
+      "path": "public/models/body-14.bin",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a9562c717b3509a6f9264a988be0ab8e0142f9b4",
+      "size": 2300452,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/a9562c717b3509a6f9264a988be0ab8e0142f9b4"
+    },
+    {
+      "path": "public/models/body-14.bin.gz",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "48b6ddda111212b7f2cc00fc8f91014c4144eb05",
+      "size": 1344908,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/48b6ddda111212b7f2cc00fc8f91014c4144eb05"
+    },
+    {
+      "path": "public/models/body-2.bin",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "796cf2dc1f686456a6c9ccca374c5a3403f12e40",
+      "size": 4438056,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/796cf2dc1f686456a6c9ccca374c5a3403f12e40"
+    },
+    {
+      "path": "public/models/body-2.bin.gz",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9b12f4f21238e9cf0d796d3e3581cd1a4a1dbffd",
+      "size": 2312911,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/9b12f4f21238e9cf0d796d3e3581cd1a4a1dbffd"
+    },
+    {
+      "path": "public/models/body-3.bin",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "368a55dd62c761caf2aee044439e9563b500f276",
+      "size": 4041436,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/368a55dd62c761caf2aee044439e9563b500f276"
+    },
+    {
+      "path": "public/models/body-3.bin.gz",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2621a4b5e06a9186d5437fa9e5679ccae5feb382",
+      "size": 2079806,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/2621a4b5e06a9186d5437fa9e5679ccae5feb382"
+    },
+    {
+      "path": "public/models/body-4.bin",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "92dad79d99d03d5bd0778203259a43e1f5583097",
+      "size": 4020544,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/92dad79d99d03d5bd0778203259a43e1f5583097"
+    },
+    {
+      "path": "public/models/body-4.bin.gz",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "54f266aad3b88ca1d9adcc25412be10a3f5a9a82",
+      "size": 2075177,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/54f266aad3b88ca1d9adcc25412be10a3f5a9a82"
+    },
+    {
+      "path": "public/models/body-5.bin",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "833e5cd9852f995db00382b4b582fb177da13e5f",
+      "size": 4022564,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/833e5cd9852f995db00382b4b582fb177da13e5f"
+    },
+    {
+      "path": "public/models/body-5.bin.gz",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "83224e6ef11d454e9df2099ba5220878c98ae8a4",
+      "size": 2176648,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/83224e6ef11d454e9df2099ba5220878c98ae8a4"
+    },
+    {
+      "path": "public/models/body-6.bin",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b200756a91d61c43139fb3786ed1d95584b2cac2",
+      "size": 4035584,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/b200756a91d61c43139fb3786ed1d95584b2cac2"
+    },
+    {
+      "path": "public/models/body-6.bin.gz",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "61c5a9d76e89cc215f384a74ebac17949ba017a0",
+      "size": 2378951,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/61c5a9d76e89cc215f384a74ebac17949ba017a0"
+    },
+    {
+      "path": "public/models/body-7.bin",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d4bb70330113d6ea66faf12eaa6230fdf26b41e1",
+      "size": 4006940,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/d4bb70330113d6ea66faf12eaa6230fdf26b41e1"
+    },
+    {
+      "path": "public/models/body-7.bin.gz",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2b8d9cb8c75f69bd95d7fc25c4427a199a03bf71",
+      "size": 2385857,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/2b8d9cb8c75f69bd95d7fc25c4427a199a03bf71"
+    },
+    {
+      "path": "public/models/body-8.bin",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0d33357f8ea6e9a50df28bc2bb6eccb9dd23c89b",
+      "size": 4028452,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/0d33357f8ea6e9a50df28bc2bb6eccb9dd23c89b"
+    },
+    {
+      "path": "public/models/body-8.bin.gz",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2fd5d98e32bd45cdedff23e7a92048c0f31a4d3a",
+      "size": 2382534,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/2fd5d98e32bd45cdedff23e7a92048c0f31a4d3a"
+    },
+    {
+      "path": "public/models/body-9.bin",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cca9f569eea7ec8cda5cd00f7f9ac2b36d278d68",
+      "size": 4018260,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/cca9f569eea7ec8cda5cd00f7f9ac2b36d278d68"
+    },
+    {
+      "path": "public/models/body-9.bin.gz",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c6416c53098ccfe4ca488c3782e74df6137a26e4",
+      "size": 2259266,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/c6416c53098ccfe4ca488c3782e74df6137a26e4"
+    },
+    {
+      "path": "scripts",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "bc3f1b7877f272ee6da4712e1c935151d8878bb3",
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/trees/bc3f1b7877f272ee6da4712e1c935151d8878bb3"
+    },
+    {
+      "path": "scripts/compress-models.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2aafcdcf4d5f6671f93a97d3461d1f08a08c847a",
+      "size": 660,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/2aafcdcf4d5f6671f93a97d3461d1f08a08c847a"
+    },
+    {
+      "path": "scripts/convert-anatomy.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d204e68362c448dd40fce7389cb25a77d1a9d9ef",
+      "size": 3490,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/d204e68362c448dd40fce7389cb25a77d1a9d9ef"
+    },
+    {
+      "path": "scripts/optimize-anatomy.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d29af87770b844dca73f5b967cdbce119482e021",
+      "size": 3600,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/d29af87770b844dca73f5b967cdbce119482e021"
+    },
+    {
+      "path": "scripts/validate-atlas.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bbd5b4d0599eee9df36fe487d200a35648ae020a",
+      "size": 1431,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/bbd5b4d0599eee9df36fe487d200a35648ae020a"
+    },
+    {
+      "path": "scripts/validate-interactions.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "99cfcdbe9f015be71a0c0eac9cc03f5e53c687f6",
+      "size": 2146,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/99cfcdbe9f015be71a0c0eac9cc03f5e53c687f6"
+    },
+    {
+      "path": "tsconfig.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f2ad1bf0721679d49555964b75d151438e9199a1",
+      "size": 743,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/f2ad1bf0721679d49555964b75d151438e9199a1"
+    },
+    {
+      "path": "vercel.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2915f1344ecf360e9d7cf04a50625cf98ee92f1c",
+      "size": 153,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/2915f1344ecf360e9d7cf04a50625cf98ee92f1c"
+    },
+    {
+      "path": "vite.config.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b6dc3004109d201d95a9bdc86a67f73ec02debc5",
+      "size": 494,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/b6dc3004109d201d95a9bdc86a67f73ec02debc5"
+    },
+    {
+      "path": "web",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c4d60dc16f09dea2e30583e4a55266e1579046b8",
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/trees/c4d60dc16f09dea2e30583e4a55266e1579046b8"
+    },
+    {
+      "path": "web/index.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5f2ae6ff9124b47095b71c5fc414a7f4c8504bbc",
+      "size": 523,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/5f2ae6ff9124b47095b71c5fc414a7f4c8504bbc"
+    },
+    {
+      "path": "web/main.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b2bf6ed84d718f9fc4186fb51951355c017f05c7",
+      "size": 168,
+      "url": "https://api.github.com/repos/ashemag/human-atlas/git/blobs/b2bf6ed84d718f9fc4186fb51951355c017f05c7"
+    }
+  ],
+  "truncated": false
+}
