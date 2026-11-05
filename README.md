@@ -1,5 +1,7 @@
 # Human Body · 人体图谱
 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/liuxing5/human-body)
+
 一个可交互的 3D 人体解剖探索器：把 BodyParts3D 成年男性参考模型拆成 **2,234 个可单独选中的网格**，支持 **15 个解剖系统** 的显隐、**3,432 个命名概念** 的检索与检视。前端使用 React 19 + Three.js + Vite + shadcn/ui。
 
 - 在线示例（Vercel）：<https://human-atlas-seven.vercel.app>
