@@ -35,7 +35,7 @@ npm run build    # 产物在 human-atlas/dist（约 34 MB，含 3D 模型数据�
 
 ## 部署到 Render
 
-`render.yaml` 已把部署配置写好：静态站点、`main` 分支、构建命令 `cd human-atlas && npm ci && npm run build`、发布目录 `human-atlas/dist`，并为 `/assets/*`、`/models/*` 设置长缓存头、为单页应用设置回退到 `index.html` 的 rewrite 规则。
+`render.yaml` 已把部署配置写好：静态站点、`main` 分支、构建命令 `cd human-atlas && npm ci && npm run build`、发布目录 `human-atlas/dist`，并为 `/assets/*`、`/models/*` 设置长缓存头。（应用没有客户端路由，因此不配置 SPA 回退，避免缺失的模型分片被回退成 HTML 后按一年缓存。）
 
 一键部署（需要登录 Render 并授权 GitHub）：
 

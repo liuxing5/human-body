@@ -29,8 +29,6 @@ services:
       - path: /index.html
         name: Cache-Control
         value: public, max-age=0, must-revalidate
-    routes:
-      # Single-page app: serve index.html for any unknown path instead of a 404.
-      - type: rewrite
-        source: /*
-        destination: /index.html
+    # No SPA fallback on purpose: the app has no client-side routes, and a
+    # `/* -> /index.html` rewrite would answer missing model chunks with
+    # `200 text/html` under a one-year immutable cache.
