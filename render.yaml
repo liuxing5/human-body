@@ -1,0 +1,36 @@
+# Render Blueprint — https://render.com/docs/blueprint-spec
+# One-click deploy: https://render.com/deploy?repo=https://github.com/liuxing5/human-body
+#
+# The app itself lives in the `human-atlas` git submodule (a Vite + React + Three.js
+# static site). Render clones the submodules listed in .gitmodules before it runs
+# buildCommand, so the build below only has to install and bundle.
+services:
+  - type: web
+    name: human-body
+    runtime: static
+    repo: https://github.com/liuxing5/human-body
+    branch: main
+    buildCommand: cd human-atlas && npm ci && npm run build
+    staticPublishPath: human-atlas/dist
+    envVars:
+      # The npm project lives in the submodule, not at the repo root, so Render's
+      # automatic dependency install is skipped in favour of the explicit `npm ci`.
+      - key: SKIP_INSTALL_DEPS
+        value: "true"
+      - key: NODE_VERSION
+        value: "24.22.1"
+    headers:
+      - path: /assets/*
+        name: Cache-Control
+        value: public, max-age=31536000, immutable
+      - path: /models/*
+        name: Cache-Control
+        value: public, max-age=31536000, immutable
+      - path: /index.html
+        name: Cache-Control
+        value: public, max-age=0, must-revalidate
+    routes:
+      # Single-page app: serve index.html for any unknown path instead of a 404.
+      - type: rewrite
+        source: /*
+        destination: /index.html
